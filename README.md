@@ -1,7 +1,5 @@
-- 👋 Hi, My name is @meaowww，I am 12 years old!I'm a Chinese kid:)
-- 👀 I’m interested in basketball and table tennis.
-- 🌱 I’m currently learning PE,Math,English,Chinese and Music!
-- 💞️ I want to be a famous Minecraft Youtuber in the future!
+- 👋 Hi, My name is @meaowww，I am 14 years old!I'm from China！
+- 💞️ I want to be a famous Artist in the future!
 - 📫 How to reach me 1991211974@qq.com :)
 
 <!---
